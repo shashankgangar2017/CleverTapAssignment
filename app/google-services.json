@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407852339312",
+    "project_id": "tam-project-6a504",
+    "storage_bucket": "tam-project-6a504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407852339312:android:4a61d7ac524d80197e64b5",
+        "android_client_info": {
+          "package_name": "com.clevertap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407852339312-tdg8q5jjehidujp4gobsgjmeq9gf7498.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertap",
+            "certificate_hash": "4b128e3310d18185061f8a15e00d0dfdd0a61e8f"
+          }
+        },
+        {
+          "client_id": "407852339312-0h928cie6lkd450b5b50de1ilk8mkro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJfMzSAdKU4sG_0nlIIgnXJY7LbT_PQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407852339312-0h928cie6lkd450b5b50de1ilk8mkro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
